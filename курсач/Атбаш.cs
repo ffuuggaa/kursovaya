@@ -22,7 +22,7 @@ namespace курсач
 
         }
 
-        static string Encrypt(string text, string alphabet)
+        public string Encrypt(string text, string alphabet)
         {
             string encryptedText = "";
             int alphabetLength = alphabet.Length;
@@ -146,16 +146,18 @@ namespace курсач
                 return 2; // Английский язык
             }
         }
-        private void back_Click(object sender, EventArgs e)
-        {
-            Авторизация LoginForm = new Авторизация();
-            LoginForm.Show();
-            this.Hide();
-        }
+
 
         private void Form3_FormClosed(object sender, FormClosedEventArgs e)
         {
             Application.Exit();
+        }
+
+        private void back_Click_1(object sender, EventArgs e)
+        {
+            Авторизация LoginForm = new Авторизация();
+            LoginForm.Show();
+            this.Hide();
         }
     }
 }

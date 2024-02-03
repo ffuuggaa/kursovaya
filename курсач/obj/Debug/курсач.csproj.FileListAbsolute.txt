@@ -27,3 +27,32 @@ C:\Users\kotem\OneDrive\Рабочий стол\пиздец\курсач\кур
 C:\Users\kotem\OneDrive\Рабочий стол\пиздец\курсач\курсач\bin\Debug\System.Data.SqlClient.xml
 C:\Users\kotem\OneDrive\Рабочий стол\пиздец\курсач\курсач\bin\Debug\System.Data.SQLite.xml
 C:\Users\kotem\OneDrive\Рабочий стол\пиздец\курсач\курсач\obj\Debug\курсач.Атбаш.resources
+C:\Users\nik18\source\repos\odksod\курсач\bin\Debug\курсач.exe.config
+C:\Users\nik18\source\repos\odksod\курсач\bin\Debug\курсач.exe
+C:\Users\nik18\source\repos\odksod\курсач\bin\Debug\курсач.pdb
+C:\Users\nik18\source\repos\odksod\курсач\bin\Debug\EntityFramework.dll
+C:\Users\nik18\source\repos\odksod\курсач\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nik18\source\repos\odksod\курсач\bin\Debug\System.Data.SqlClient.dll
+C:\Users\nik18\source\repos\odksod\курсач\bin\Debug\System.Data.SQLite.dll
+C:\Users\nik18\source\repos\odksod\курсач\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\nik18\source\repos\odksod\курсач\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\nik18\source\repos\odksod\курсач\bin\Debug\System.Memory.dll
+C:\Users\nik18\source\repos\odksod\курсач\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nik18\source\repos\odksod\курсач\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nik18\source\repos\odksod\курсач\bin\Debug\System.Buffers.dll
+C:\Users\nik18\source\repos\odksod\курсач\bin\Debug\EntityFramework.xml
+C:\Users\nik18\source\repos\odksod\курсач\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nik18\source\repos\odksod\курсач\bin\Debug\MySql.Data.xml
+C:\Users\nik18\source\repos\odksod\курсач\bin\Debug\System.Data.SqlClient.xml
+C:\Users\nik18\source\repos\odksod\курсач\bin\Debug\System.Data.SQLite.xml
+C:\Users\nik18\source\repos\odksod\курсач\obj\Debug\курсач.csproj.AssemblyReference.cache
+C:\Users\nik18\source\repos\odksod\курсач\obj\Debug\курсач.csproj.SuggestedBindingRedirects.cache
+C:\Users\nik18\source\repos\odksod\курсач\obj\Debug\курсач.Авторизация.resources
+C:\Users\nik18\source\repos\odksod\курсач\obj\Debug\курсач.Properties.Resources.resources
+C:\Users\nik18\source\repos\odksod\курсач\obj\Debug\курсач.Атбаш.resources
+C:\Users\nik18\source\repos\odksod\курсач\obj\Debug\курсач.Регистрация.resources
+C:\Users\nik18\source\repos\odksod\курсач\obj\Debug\курсач.csproj.GenerateResource.cache
+C:\Users\nik18\source\repos\odksod\курсач\obj\Debug\курсач.csproj.CoreCompileInputs.cache
+C:\Users\nik18\source\repos\odksod\курсач\obj\Debug\курсач.csproj.CopyComplete
+C:\Users\nik18\source\repos\odksod\курсач\obj\Debug\курсач.exe
+C:\Users\nik18\source\repos\odksod\курсач\obj\Debug\курсач.pdb
